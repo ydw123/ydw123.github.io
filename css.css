@@ -25,3 +25,73 @@
 	font-size:30px;
 	color:grey;
 }
+.qxhx{
+	text-decoration:line-through;
+}
+#dssq{
+	font-size:15px;
+	text-indent:30px;
+	color:red;
+}
+/*标题*/
+#bt{
+	text-align:center;
+	font-size:30px;
+	font-weight:900;   /*举栗：100,200,300,.....,900*/
+}
+/*nothing*/
+#nothing{
+	font-size:10px;
+	text-decoration:none;
+	text-align:center;
+}
+/*超链接*/
+#lj{
+	line-height:55px;
+	width:400px;
+	height:255px;
+	background-image:url("CHM2.gif");
+	background-position:200xp 100xp;
+	text-align:center;
+}
+/*边框*/
+.BK{
+	border-right-style:groove;
+	border-right-width:20px;
+	border-right-color:#F76205;
+	border-bottom:none;
+	border-top:none;
+	border-left-style:groove;
+	border-left-width:20px;
+	border-left-color:#F76205;
+}
+/*蓝色边框标签*/
+.bd{
+	border-style:solid;
+	border-width:15px;
+	border-color:#0935E5;
+}
+/*居中*/
+#jz{
+	text-align: center;
+}
+/*天皇标题*/
+#background{
+	height:35px;
+	background-color:#000000;
+	color:#FFFFFF;
+	text-align:center;
+}
+#lb{
+	height:35px;
+	background-color:#000000;
+	color:#FFFFFF;
+	text-align:center;
+}
+#bj{
+	background-image:url("sh4.gif");
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+	background-position:center;
+}
+
